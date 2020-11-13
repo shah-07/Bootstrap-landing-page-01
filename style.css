@@ -61,12 +61,12 @@ footer {
     padding: 5% 5% 10% 5%;
     color: #fff;
 }
-.fa {
+.fab {
     padding: 15px;
     font-size: 25px;
     color: #fff;
 }
-.fa:hover {
+.fab:hover {
     color: #d5d5d5;
     text-decoration: none;
 }
